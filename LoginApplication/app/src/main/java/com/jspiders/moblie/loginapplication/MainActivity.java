@@ -61,27 +61,9 @@ public class MainActivity extends AppCompatActivity {
                     Toast.makeText(getApplicationContext(),"Invalid Username or Password",Toast.LENGTH_SHORT).show();
                 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
             }
         });
     }
 }
+
+// iam just trying to explore github! { by making some changes that will not affect the code. }
